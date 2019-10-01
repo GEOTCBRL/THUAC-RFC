@@ -1,0 +1,12 @@
+site_name: THUAC RFC
+nav:
+- 简介: index.md
+- 概览: abstract.md
+- 游戏: game.md
+- 裁判: judger.md
+- 播放器: player.md
+- SDK(AI): SDK(AI).md
+- 网站: website.md
+
+
+theme: readthedocs
